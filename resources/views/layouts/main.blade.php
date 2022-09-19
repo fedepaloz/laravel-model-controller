@@ -6,9 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <title>Document</title>
-   
 </head>
 <body>
-    <h1 class="text-danger">prova</h1>
+    <h1 class="text-danger">bellazio</h1>
 </body>
-</html> 
+</html>
