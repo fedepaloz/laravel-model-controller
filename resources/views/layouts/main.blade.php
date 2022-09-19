@@ -9,7 +9,7 @@
 </head>
 <body>
     <header> 
-     <h1>lista dei film</h1>
+     <h1>Lista dei film</h1>
     </header>
     
      <main>
